@@ -2,5 +2,5 @@
 Simple recycling-points for entities registering system using node.js.
 
 ## Overview
-![alt-text](../blob/master/imgs-gifs-git/home.png?raw=true)
+![](imgs-gifs-git/home.png)
 
